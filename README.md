@@ -19,7 +19,7 @@ Objective:
     * Event listener for events 
     * Search (filter) through the date/time column to find rows that match user input
 
-## Table Two: 
+## Table Two: Multiple Search Categories
 See UFO-Level-2 folder for HTML (index.html). Subfolders contain the data, Javascript, CSS and other resources used. 
 
 Objective:
@@ -31,3 +31,4 @@ Objective:
     4. country
     5. shape
 
+Link for Aliens-R-Real: 
