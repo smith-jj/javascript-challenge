@@ -1,7 +1,7 @@
 #javascript-challenge
 Repo for Bootcamp Unit 14 | Assignment - JavaScript and DOM Manipulation
 
-![Aliens-R-Real](UFO-level-2/static/image/ufo4.gif)
+![](UFO-level-2/static/images/ufo4.gif)
 
 The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it!
 
