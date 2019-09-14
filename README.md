@@ -1,8 +1,8 @@
 #javascript-challenge
 Repo for Bootcamp Unit 14 | Assignment - JavaScript and DOM Manipulation
 
-Click the link below to see final webpage: 
-https://smith-jj.github.io/javascript
+Link for published webpage: 
+smith-jj.github.io/javascript
 
 ![](UFO-level-2/static/images/ufo4.gif)
 
