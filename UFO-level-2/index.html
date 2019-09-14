@@ -16,7 +16,7 @@
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a class="navbar-brand" href="index.html">Aliens-R-Real 
+          <a class="navbar-brand" href="index.html">UFO Sightings
             <img class="nav-ufo" src="static/images/ufo.svg">
           </a>
         </div>
@@ -31,26 +31,27 @@
         <div class="col-md-2">
           <aside class="filters">
             <div class="panel panel-default">
-              <div class="panel-heading">Filter Sightings</div>
+              <div class="panel-heading">Filter Search</div>
               <div class="panel-body">
                 <form>
                   <div class="form-group">
                     <ul class="list-group" id="filters">
-                      <li class="filter list-group-item">
+                    <li class="filter list-group-item">
                         <label for="date">Enter a Date</label>
-                        <input class="form-control" id="dateInput" type="text" placeholder="1/11/2011">
+                        <input class="form-control" id="datetime" type="text" placeholder="1/11/2011">
                         <label for="date">Enter a City</label>
-                        <input class="form-control" id="cityInput" type="text" placeholder="City">
+                        <input class="form-control" id="city" type="text" placeholder="City">
                         <label for="date">Enter a State</label>
-                        <input class="form-control" id="stateInput" type="text" placeholder="State">
+                        <input class="form-control" id="state" type="text" placeholder="State">
                         <label for="date">Enter a Country</label>
-                        <input class="form-control" id="countryInput" type="text" placeholder="Country">
+                        <input class="form-control" id="country" type="text" placeholder="Country">
                         <label for="date">Enter UFO Shape</label>
-                        <input class="form-control" id="shapeInput" type="text" placeholder="Shape">
+                        <input class="form-control" id="shape" type="text" placeholder="Shape">
                       </li>
                     </ul>
                   </div>
-                  <button id="filter-btn" type="button" class="btn btn-default">Filter</button>
+                  <button id="filter-btn" type="submit" class="btn btn-default">Filter Table</button>
+                  <button id="reset-btn" type="reset" class="btn btn-default">Reset Table</button>
                 </form>
               </div>
             </div>
@@ -76,12 +77,6 @@
         </div>
       </div>
     </div>
-      <div class="container">
-        <nav aria-label="Page navigation example">
-          <button class="btn btn-sm btn-secondar paginate-btn">Previous Page</button>
-          <button class="btn btn-sm btn-primary paginate-btn">Next Page</button>
-        </nav>
-      </div>
     <footer class="footer">
       <span class="bottom">UFO Sightings</span>
     </footer>
